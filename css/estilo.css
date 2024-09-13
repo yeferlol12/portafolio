@@ -1,0 +1,13 @@
+#contenedo {
+    text-align: center;
+    width: 100%;
+    border: 2px solid;
+    background-color: hsl(0, 0%, 9%);
+}
+
+.navegador h2{
+    width: 10%;
+    border: 2px rgb(14, 13, 13) solid;
+    text-align: center;
+    margin: auto;
+}
